@@ -4,7 +4,7 @@
 AI 진로 교육 강연 시연용으로 만들었으며, 코드는 대부분 AI 코딩 에이전트가 작성했습니다.
 판타지 밤하늘(은하수·유성·달·창문 불빛) 아래에서 몰려오는 몬스터로부터 학교를 지키세요!
 
-▶ 플레이: https://osg1935.github.io/baekun-voxel/
+▶ 플레이: https://od-studio-webagency.github.io/baekun-voxel/
 
 설치 없이 브라우저(Chrome·Safari·Edge)에서 바로 실행됩니다. Three.js r169는 `vendor/`에 포함되어 있어 외부 CDN을 쓰지 않습니다.
 
@@ -38,7 +38,7 @@ AI 진로 교육 강연 시연용으로 만들었으며, 코드는 대부분 AI 
 | 힐 | HP 회복 |
 
 ## URL 옵션
-주소 뒤에 붙여서 사용합니다. 예: `https://osg1935.github.io/baekun-voxel/?q=low`
+주소 뒤에 붙여서 사용합니다. 예: `https://od-studio-webagency.github.io/baekun-voxel/?q=low`
 
 | 옵션 | 설명 |
 |---|---|
